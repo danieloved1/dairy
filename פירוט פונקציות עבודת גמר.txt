@@ -1,0 +1,11 @@
+delete meeting
+מחזיר את המקום במערך שצריך למחוק
+check date
+בודק אם התאריך תקין
+create meeting
+יוצר פגישה ובודק את תקינות הקלט
+chec meeting excise
+בודק אם הפגישה לא תפוסה
+insert meeting
+מחזיר את המקום שצריך להכניס את הפגישה
+
